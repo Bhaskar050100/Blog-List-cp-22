@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.list {
+  margin-top: 10px;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+.post-date-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.head {
+  color: #12022f;
+  font-weight: bold;
+  font-size: 30px;
+}
+.date {
+  color: #616e7c;
+  font-size: 27px;
+}
+.para {
+  color: #9aa5b1;
+  font-size: 20px;
+}
+.line {
+  color: #9aa5b1;
+  width: 100%;
+}
